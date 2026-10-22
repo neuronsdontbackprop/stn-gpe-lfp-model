@@ -1,0 +1,4 @@
+x86_64/
+__pycache__/
+.ipynb_checkpoints/
+nrnmech.dll
