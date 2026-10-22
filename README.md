@@ -1,7 +1,7 @@
 # STN–GPe network and LFP model (NEURON), normal vs Parkinson-like state
 
 Course project, Computational Neuroscience (MSc Cognitive Science, Amrita Vishwa Vidyapeetham).
-Authors: Utkarshini Mishra, Vidhu S Vijay.
+Authors: Utkarshini Mishra, Vidhu S Vijay and Arjun C.
 
 A small network of 20 subthalamic nucleus (STN) neurons and 20 globus pallidus externus (GPe) neurons, simulated in NEURON at 35 °C, with the extracellular **local field potential (LFP)** computed from the membrane currents of the network's own STN cells. We ask which ingredient is needed for beta (13–30 Hz) power in the LFP: the firing-rate state, the STN–GPe loop, or rhythmic cortical input.
 
