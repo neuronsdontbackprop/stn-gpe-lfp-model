@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+neuron==9.0.2
+nbformat
+jupyter

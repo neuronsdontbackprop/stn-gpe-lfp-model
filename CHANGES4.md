@@ -1,6 +1,6 @@
 # updated_work_v4 — what changed, what was found, what is not done
 
-Open `updated_work_v4.ipynb` (already run). All results are in `results/`; set `RUN_SIMS = True` to recompute missing runs (about 160 s each, 2 workers, 111 runs total ≈ 2.5 h).
+Open `updated_work_v4.ipynb` (already run). All results are in `results/`; set `RUN_SIMS = True` to recompute missing runs (about 160 s each, 2 workers, 151 runs total ≈ 3.5 h).
 Tested with NEURON 9.0.2 on Linux. Mod files in `mods/` must be compiled first (`nrnivmodl`; `mknrndll` on Windows). `mods/` holds the 10 channel files of ModelDB 74298 (Gillies & Willshaw 2006) plus two of ours (`gpehh.mod`, `gpecat.mod`); `SThprotocell.hoc` and `sth-data/` are the paper's files (original README: `README_ModelDB_original.txt`). Cite the paper and ModelDB 74298.
 
 ## Done in v4
